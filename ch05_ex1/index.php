@@ -1,6 +1,6 @@
 <?php include 'view/header.php'; ?>
 <main>
-    <h1>Menu</h1>
+    <h1>Menu </h1>
     <ul>
         <li>
             <a href="product_manager">Product Manager</a>
